@@ -11,6 +11,7 @@ My LeetCode solutions in Java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0728-self-dividing-numbers](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Geometry
