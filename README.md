@@ -8,12 +8,14 @@ My LeetCode solutions in Java
 | ------- | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0728-self-dividing-numbers](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
