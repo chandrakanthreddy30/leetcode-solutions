@@ -24,6 +24,7 @@ My LeetCode solutions in Java
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ My LeetCode solutions in Java
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@ My LeetCode solutions in Java
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -53,4 +56,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
