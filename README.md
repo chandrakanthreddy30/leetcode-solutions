@@ -6,6 +6,7 @@ My LeetCode solutions in Java
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -24,6 +25,7 @@ My LeetCode solutions in Java
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
@@ -60,4 +62,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
