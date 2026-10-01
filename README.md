@@ -26,6 +26,7 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
@@ -66,4 +67,12 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
