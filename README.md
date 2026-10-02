@@ -9,6 +9,7 @@ My LeetCode solutions in Java
 | [0014-longest-common-prefix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1528-shuffle-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
@@ -30,6 +31,7 @@ My LeetCode solutions in Java
 | [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0541-reverse-string-ii](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1528-shuffle-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
