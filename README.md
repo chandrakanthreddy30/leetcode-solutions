@@ -28,6 +28,7 @@ My LeetCode solutions in Java
 | [0014-longest-common-prefix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0541-reverse-string-ii](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -75,4 +76,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0541-reverse-string-ii](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 <!---LeetCode Topics End-->
