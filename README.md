@@ -36,6 +36,7 @@ My LeetCode solutions in Java
 | [0856-score-of-parentheses](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1528-shuffle-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ My LeetCode solutions in Java
 | [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0771-jewels-and-stones](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,12 @@ My LeetCode solutions in Java
 | [0541-reverse-string-ii](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 <!---LeetCode Topics End-->
