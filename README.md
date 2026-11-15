@@ -8,6 +8,7 @@ My LeetCode solutions in Java
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0118-pascals-triangle](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
@@ -104,4 +105,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
