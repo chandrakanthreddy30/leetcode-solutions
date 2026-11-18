@@ -38,6 +38,7 @@ My LeetCode solutions in Java
 | [1528-shuffle-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
