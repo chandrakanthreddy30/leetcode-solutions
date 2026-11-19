@@ -12,6 +12,7 @@ My LeetCode solutions in Java
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Math
@@ -65,6 +66,7 @@ My LeetCode solutions in Java
 | [0016-3sum-closest](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0389-find-the-difference](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,8 @@ My LeetCode solutions in Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/chandrakanthreddy30/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 <!---LeetCode Topics End-->
